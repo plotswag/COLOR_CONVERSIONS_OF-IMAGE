@@ -406,9 +406,6 @@ cv2.imwrite('lokesh1.jpg',img)
 <br>
 <br>
 
-### Output:
-![image](https://github.com/user-attachments/assets/a3cfb30f-a732-425e-8cee-01c431bcaeb5)
-
 
 ## Result:
 Thus the images are read, displayed, and written ,and color conversion was performed  successfully using the python program.
